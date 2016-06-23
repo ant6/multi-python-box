@@ -1,0 +1,5 @@
+name: multi-python
+version: 0.0.1
+inherits: wercker/ubuntu
+type: main
+platform: ubuntu@12.04
